@@ -1,0 +1,23 @@
+{
+  "name": "demo-cypress-github-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo Builing",
+    "start": "echo Starting"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meroware/demo-cypress-github-action.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meroware/demo-cypress-github-action/issues"
+  },
+  "homepage": "https://github.com/meroware/demo-cypress-github-action#readme",
+  "devDependencies": {
+    "cypress": "^8.3.0"
+  }
+}
